@@ -18,3 +18,6 @@ console.log(umaString.slice(3, 7));
 console.log(umaString.slice(-5));
 console.log(umaString.split(' '));
 console.log(umaString.split(' ', 1));
+console.log(umaString.toLowerCase());
+console.log(umaString.toUpperCase());
+console.log(umaString.toString());
