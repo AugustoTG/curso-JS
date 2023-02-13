@@ -8,7 +8,16 @@
 </head>
 <body>
     <script>
-        const nome = prompt('Digite seu nome.')
+        const nome = prompt('Digite seu nome completo:');
+        window.document.body.innerHTML = `O seu nome é ${nome} <br/>`;
+        window.document.body.innerHTML += `Seu nome tem ${nome.length} letras. <br/>`;
+        window.document.body.innerHTML += `A segunda letra do seu nome é:${nome.charAt(1)}. <br/>`;
+        window.document.body.innerHTML += `Qual o primeiro indice da letra A no seu nome?${nome.indexOf('a')}. <br/>`;
+        window.document.body.innerHTML += `Qual o ultimo indice da letra U ?${nome.lastIndexOf('u')}. <br/>`;
+        window.document.body.innerHTML += `As ultimas 3 letras do seu nome são ?${nome.slice(-3)}. <br/>`;
+       window.document.body.innerHTML += `A s palavras do seu nome são:${nome.split('')} <br/>`;
+       window.document.body.innerHTML += `Seu nome com letras minisculas:${nome.toLowerCase()} <br/>`;
+       window.document.body.innerHTML += `Seu nome com letras maiusculas:${nome.toUpperCase()} <br/>`;
     </script>
 </body>
 </html>
