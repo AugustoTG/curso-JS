@@ -7,9 +7,15 @@
     <title>exercicio 15</title>
 </head>
 <body>
-    <h1></h1>
+    
     <script>
-        prompt('Digite um numero!')
+        let num1 = prompt('Digite um numero!');
+        document.body.innerHTML = `<h1> Seu número é ${num1}</h1><br>`;
+        
+        document.body.innerHTML += `<p>Raiz Quadrada: ${num1 ** 0.5}</p></br>`;
+
+        document.body.innerHTML += `<p>${num1} é um número inteiro? ${Number.isInteger(num1)
+        }</p></br>`;
     </script>
 </body>
 </html>
