@@ -31,3 +31,37 @@ const raizQuadrada = (a) => a** 0.5;
 
  console.log(raizQuadrada(9));
  console.log(raizQuadrada(16));
+
+ //objeto literal
+
+ const pessoal1 = {
+    nome: ' Augusto',
+    sobrenome:'Tavares',
+    idade: 30
+};
+console.log(pessoal1.nome)
+
+// fabrica de objetos 
+function pessoa(nome, sobrenome, idade){
+    return{
+       // nome: nome,
+       // sobrenome: sobrenome,
+       // idade: idade,
+       nome, sobrenome, idade
+    };
+}
+const pessoa2 = pessoa('Midiã', 'Gaspar', 30)
+console.log(pessoa2.nome)
+const pessoa3 = pessoa('Diovana', 'Reis', 19)
+console.log(pessoa3.nome)
+
+const pessoa5 = {
+    nome: ' Augusto',
+    sobrenome:'Tavares',
+    idade: 30,
+
+    fala(){
+        console.log(`${this.nome} ${this.sobrenome} esta falando oi...`)
+    }
+};
+ pessoa5.fala();
