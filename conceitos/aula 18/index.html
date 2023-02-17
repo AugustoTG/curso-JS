@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,7 +8,14 @@
 </head>
 <body>
     <fieldset>
-        
+        <form class='formulario' action="index.js" method="get">
+            <label for="name">Nome: </label><input type="text" name="name" id="name"><br>
+            <label for="sobrenome">Sobrenome: </label><input type="text" name="sobrenome" id="sobrenome"><br>
+            <label for="peso">Peso: </label><input type="number" name="peso" id="peso"><br>
+            <label for="altura">Altura: </label><input type="number" name="altura" id="altura"><br>
+            <input type="button" value="Enviar">
+            <script src="index.js"></script>
+        </form>
     </fieldset>
 </body>
 </html>
