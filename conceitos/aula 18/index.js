@@ -21,7 +21,7 @@ function dados (){
             pessoa[2] = peso.value;
             pessoa[3] = altura.value;
             console.log(pessoa)
-            resposta.innerHTML += `<p>Seu nome é:${pessoa[0]} ${pessoa[1]}, seu pesso: ${pessoa[2]}, sua alura:${pessoa[3]}</p>`;
+            resposta.innerHTML += `<p>Seu nome é:${pessoa[0]} ${pessoa[1]}, seu pesso: ${pessoa[2]}, sua altura:${pessoa[3]}</p>`;
         }
        
         formPessoa.addEventListener('submit', recebeEventoForm);
