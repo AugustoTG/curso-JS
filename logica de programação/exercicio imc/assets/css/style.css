@@ -4,12 +4,21 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-  outline: 0;
+    outline: 0;
 }
 
 :root {
   --primary-color: rgb(17, 86, 102);
   --primary-color-darker: rgb(9, 48, 56);
+}
+h1{
+  text-align: center;
+  margin: 20px;
+}
+h2{
+  font-weight:500;
+  margin: 30px 0 30px 0;
+  text-align: center;
 }
 body {
   margin: 0;
@@ -19,6 +28,15 @@ body {
   font-size: 1.3em;
   line-height: 1.5em;
 }
+table{
+  border-collapse: collapse;
+}
+td, th, tr {
+  border: 1px solid rgba(0, 0, 0, 0.281);
+  padding: 1px 50px 1px 50px;
+}
+
+
 
 .container {
   max-width: 640px;

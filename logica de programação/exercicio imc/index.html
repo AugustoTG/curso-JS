@@ -4,19 +4,71 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Modelo</title>
+    <title>IMC</title>
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
     <main>
         <section class="container">
-            <h1>Lorem ipsum dolor sit amet</h1>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              Repellendus nisi explicabo saepe voluptatibus consequuntur et corporis
-              maxime quos, doloribus vitae voluptatum quisquam necessitatibus
-              pariatur veritatis exercitationem beatae officiis suscipit Ea!
-            </p>
+            <h1>Tabela de IMC.</h1>
+            <table>
+              <thead>
+                <tr>
+                  <th>IMC</th>
+                  <th>Resultado</th>
+                </tr>
+                <tbody>
+                  <tr>
+                    <td>
+                      Menos do que 18,5 Kg
+                    </td>
+                    <td>Abaixo do peso</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      Entre 18,5 Kg e 24,9 Kg
+                    </td>
+                    <td>Peso Normal</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      Entre 25 Kg e 29,9 Kg
+                    </td>
+                    <td>Sobrepeso</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      Entre 30 Kg e 34,9 Kg
+                    </td>
+                    <td>Obesidade grau 1</td>
+                  </tr>
+                </tr>
+                <tr>
+                  <td>
+                    Entre 35 Kg e 39,9 Kg
+                  </td>
+                  <td>Obesidade grau 2</td>
+                </tr>
+              </tr>
+              <tr>
+                <td>
+                  Maior que 40 Kg
+                </td>
+                <td>Obesidade grau 3</td>
+              </tr>
+                </tbody>
+              </thead>
+            </table>
+
+            <h2>Calcule seu IMC.</h2>
+            <form action="" method="get">
+              <label for="peso">Peso:</label><br>
+              <input type="number" name="peso" id="peso">
+              <label for="altura">Altura:</label><br>
+              <input type="number" name="altura" id="altura">
+              <button>Calcular</button>
+            </form>
+            
           </section>
         
     </main>
