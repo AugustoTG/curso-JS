@@ -13,3 +13,4 @@ if (hora >=6 &&hora < 12){
 }else if(hora >=0 && hora < 6){
     console.log('Boa Madrugada!');
 }
+// o if, else if, else irá executar até encontrar um valor verdadeiro assim sendo não executará o restante do programa dentro do bloco 
