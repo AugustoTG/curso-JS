@@ -72,6 +72,9 @@ form button {
   cursor: pointer;
   margin-top: 30px;
 }
+.colorRed{
+  background-color: rgba(255, 131, 131, 0.61);
+}
 .paragrafoResultado{
 background-color: rgba(131, 255, 152, 0.61);
 padding: 10px 20px;
