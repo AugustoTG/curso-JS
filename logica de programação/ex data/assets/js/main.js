@@ -1,4 +1,4 @@
-const data = new Date();
+/*const data = new Date();
 
 function zoroEsquerda(num){
     return num >= 10 ? num : `0${num}`
@@ -61,6 +61,10 @@ function mesTexto(mes){
 }
 const formataData = dataTexto(data);
 
-const resultado = document.getElementById('data');
-resultado.innerText = formataData;
+const resultado = document.querySelector('.container h1');
+resultado.innerText = formataData; */
+
+const data = new Date();
+const resultado = document.querySelector('.container h1');
+resultado.innerText = data.toLocaleString('pt-BR', {dateStyle: 'full', timeStyle: 'short'});
 
