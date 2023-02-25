@@ -9,7 +9,13 @@ const container = document.querySelector('.container');
 const paragrafo = document.createElement('div');
 
 for (let i = 0; i < element.length; i++){
-    console.log(element[i])
+    let { tag, texto} = element[i];
+    let tagCriada = document.createElement(tag);
+    //tagCriada.innerText = texto;
+    let textoCriado = document.createTextNode(texto);
+    tagCriada.appendChild(textoCriado);
+    paragrafo.appendChild(tagCriada);
+
 }
 
-container.innerHTML = element;
+container.appendChild(paragrafo);
