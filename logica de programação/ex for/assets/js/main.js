@@ -6,5 +6,10 @@ const element = [
 ];
 
 const container = document.querySelector('.container');
+const paragrafo = document.createElement('div');
+
+for (let i = 0; i < element.length; i++){
+    console.log(element[i])
+}
 
 container.innerHTML = element;
