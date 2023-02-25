@@ -5,6 +5,6 @@ const element = [
     {tag: 'section', texto: 'frase 4'}, // 3
 ];
 
-let conteudo = document.querySelector('#conteudo');
+const container = document.querySelector('.container');
 
-conteudo.innerHTML = element;
+container.innerHTML = element;
