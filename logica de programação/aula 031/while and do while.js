@@ -15,7 +15,16 @@ const max = 50;
 let rand = random(min, max);
 console.log(rand);
 
+
+// while chega primeiro e depois faz a execução  
 while ( rand !== 10){
     rand = random(min, max);
     console.log(rand);
 }
+
+// do while executa primeiro e depois checa a condição  
+console.log('##########')
+do {
+    rand = random(min, max);
+    console.log(rand);
+} while (rand !== 10)
