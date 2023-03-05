@@ -10,6 +10,7 @@
 :root {
   --primary-color: rgb(17, 86, 102);
   --primary-color-darker: rgb(9, 48, 56);
+  --primary-color2: rgb(255, 255, 255);
 }
 body {
   margin: 0;
@@ -28,34 +29,20 @@ body {
   border-radius: 10px;
 }
 
-form input, form label, form button {
-  display: block;
-  width: 100%;
-  margin-bottom: 10px;
-}
-
-form input {
-  font-size: 24px;
-  height: 50px;
-  padding: 0 20px;
-}
-
-form input:focus {
-  outline: 1px solid var(--primary-color);
-}
-
-form button {
-  border: none;
-  background: var(--primary-color);
-  color: #fff;
-  font-size: 18px;
-  font-weight: 700;
-  height: 50px;
+button {
+  border-radius: 5px;
+  background: var(--primary-color2);
+  color: #000000de;
+  font-size: 16px;
+  font-weight: 500;
+  height: 25px;
   cursor: pointer;
   margin-top: 30px;
+  
 }
 
-form button:hover {
+button:hover {
   background: var(--primary-color-darker);
+  color: #fff;
 }
 
