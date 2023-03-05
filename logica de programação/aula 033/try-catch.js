@@ -27,3 +27,11 @@ try{
 }finally{
     console.log("Finally: sempre sera executado independente se tem erro ou não"); // caso vc erre em algo vc pode fechar o arquivo pelo finally, em outras palavras ele pode ser executado para não derrubar a aplicação.
 }
+
+function retornaHora(data){
+    if(!(data && data instanceof Date)){
+        throw new TypeError('Esperando instância de Date.')
+
+    }
+
+}
