@@ -1,22 +1,32 @@
 const timer = document.querySelector('#timer');
+let data;
 function criaSegundos(segundos){
-    const data = new Date(segundos * 1000);
+    data = new Date(segundos * 1000);
     return data.toLocaleTimeString('pt-BR', {
         hour12: false,
         timeZone: 'UTC'
     })
 }
-let segundo = 0;
-    const time = setInterval(function(){
-    segundo ++;
-}, 1000);
-let pegarSegundos = criaSegundos(segundo)
+let segundos = 0;
+let time;
+function iniciaTimer(){
+    time = setInterval(function(){
+        segundos ++;
+        timer.innerHTML = criaSegundos(segundos);
+    }, 1000);
+}
 function iniciar(){
-    timer.innerHTML = pegarSegundos;
+    timer.classList.remove('colorRed')
+    clearInterval(time);
+    iniciaTimer();
 }
 function parar(){
-    timer.innerHTML = 'parou!'
+    clearInterval(time);
+    timer.classList.add('colorRed')
 }
 function zerar(){
-    timer.innerHTML = 'finalizou!'
+    timer.classList.remove('colorRed')
+    clearInterval(time);
+    timer.innerHTML = '00:00:00'
+    segundos = 0;
 }
