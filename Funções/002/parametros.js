@@ -20,9 +20,23 @@ function funcao2(a, b, c, d, e, f){
 
 funcao2(1,2,3,4,60);
 
-function soma(a, b){
-   
-    console.log(a + b, c,  d, e, f);
+function soma(a = 0, b = 0, c = 1){
+    
+    console.log(a + b + c);
 }
 
-soma(1,2,3,4,60);
+soma(1);
+
+function obj({nome, sobrenome, idade}){
+    
+    console.log(nome, sobrenome, idade);
+}
+
+obj({nome: 'Augusto', sobrenome:'Tavares', idade:30});
+
+function arr([valor1, valor2, valor3]){
+    
+    console.log(valor1, valor2, valor3);
+}
+
+arr(['Augusto', 'Tavares', 30]);
