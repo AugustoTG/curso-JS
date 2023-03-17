@@ -1,16 +1,15 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  outline: 0;
-}
-
 :root {
   --primary-color: rgb(17, 86, 102);
   --primary-color-darker: rgb(9, 48, 56);
 }
+
+* {
+  box-sizing: border-box;
+  outline: 0;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -59,3 +58,25 @@ form button:hover {
   background: var(--primary-color-darker);
 }
 
+.calculadora {
+  width: 400px;
+}
+
+.display {
+  font-size: 2em;
+  width: 100%;
+  text-align: right;
+}
+
+.btn {
+  width: 100%;
+  height: 50px;
+  font-size: 1em;
+  border: none;
+  background: #dfdfdf;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #9e9e9e;
+}
