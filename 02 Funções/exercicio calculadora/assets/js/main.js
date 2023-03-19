@@ -5,17 +5,17 @@ return {
 
 
     inicia() {
-        this.cliqueBotos();
+        this.cliqueBotoes();
     },
 
-    cliqueBotos(){
-        document.addEventListener('click', function(e){
+    cliqueBotoes(){
+        document.addEventListener('click', (e) =>{
            const el = e.target;
             
            if(el.classList.contains('btn btn-num')){
             this.btnParaDisplay(el.innerText);
            }
-        }.bind(this))
+        })
     },
 
     btnParaDisplay(valor){
