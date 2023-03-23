@@ -51,7 +51,7 @@ function* gerador3 (){
 }
 
 function* gerador4 (){
-    yield* gerador3;
+    yield* gerador3();
     yield 3;
     yield 4;
     yield 5;
@@ -74,7 +74,7 @@ function* geradora5(){
     };
 }
 
-const g5 = gerador5();
+const g5 = geradora5();
 const func1 = g5.next().value;
 const func2 = g5.next().value;
 
