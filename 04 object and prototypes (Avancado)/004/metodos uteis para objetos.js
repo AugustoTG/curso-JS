@@ -30,5 +30,12 @@ const canecas = {nome: produto.nome}
 outraCoisa.nome = 'outra coisa'
 console.log(produto, outraCoisa, caneca,)
 console.log( caneca, canecas)
+
 console.log( Object.keys(produto))
 
+console.log( Object.getOwnPropertyDescriptor(produto, 'nome'))
+
+console.log( Object.values(produto));
+
+//trasforma em um array possibilitando enterar sobre o objeto ex: usar for 
+console.log( Object.entries(produto));
