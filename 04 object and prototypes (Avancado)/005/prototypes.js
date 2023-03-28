@@ -6,7 +6,7 @@ function Pessoa(nome, sobrenome){
 }
 // toda vez que eu tiver um metodo em uma função construtora deve-se colocar dentro da prototype
 
-Pessoa.prototype.nomeCompleto = () => {
+Pessoa.prototype.nomeCompleto = function() {
     return this.nome + " " + this.sobrenome;
 }
 
