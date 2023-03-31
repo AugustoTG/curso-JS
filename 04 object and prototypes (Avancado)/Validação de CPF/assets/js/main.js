@@ -19,3 +19,20 @@ se o número do digito for maior que 9, consideramos 0
 */
 
 const cpf = "705.484.450-52";
+const cpfLimpo = cpf.replace(/\D+/g, '');
+const cpfArray = Array.from(cpfLimpo);
+console.log(cpfArray)
+
+const multiplicador = () => {
+    for(let i = 0; i < cpfArray.length -2 ; i++){
+         const multiplicado = cpfArray[i] * (10 - i)
+        return multiplicado
+    }
+    const mult = Array.from(multiplicado)
+    const soma = mult.reduce((ac, valor) =>{
+        return ac + valor;
+    });
+     console.log(soma)
+}
+multiplicador();
+
