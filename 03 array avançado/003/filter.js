@@ -21,7 +21,7 @@ const numbers = [5, 50, 80, 1, 2, 3, 5, 8, 7, 11, 15, 22, 27];
 // });
 
 // mais usual
-const filterNumbers = numbers.filter((valor) => valor > 10); // como so esta retornando omenteo valor não há necessidade das chaves e nem do return pos esta implicito
+const filterNumbers = numbers.filter((valor) => valor > 10); // como so esta retornando o menteo valor não há necessidade das chaves e nem do return pos esta implicito
 console.log(filterNumbers)
 
 
