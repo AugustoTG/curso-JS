@@ -29,3 +29,6 @@ console.log(pessoa1)
 
 const pessoa2 = CriaPessoa('Marina', 'Tavares')
 console.log(pessoa1)
+
+
+console.log(pessoa2.falar)
