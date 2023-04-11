@@ -4,16 +4,32 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Modelo</title>
+    <title>Form</title>
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
     <main>
         <section class="container">
-            <h1>Validação de CPF</h1>
-            <p>
-            </p>
-          </section>
+            <h1>Formulário de cadastro</h1>
+            <ul>
+                <li>Nenhum campo pode estar Vazio</li>
+            </ul>
+            <form action="/" method="post" class="formulario">
+                <label for="name">Name:</label>
+                <input type="text" name="name" id="name">
+                <label for="sobrenome">Sobrenome:</label>
+                <input type="text" name="sobrenome" id="sobrenome">
+                <label for="cpf">CPF:</label>
+                <input type="text" name="cpf" id="cpf" placeholder="000.000.000-00">
+                <label for="username">Usuário:</label>
+                <input placeholder="Usuário só poderá conter letras e/ou números e ter entre 6 e 12 caracteres" type="text" name="usarname" id="username">
+                <label for="password">Senha:</label>
+                <input type="text" name="password" id="password" placeholder="Senha precisa ter entre 6 e 12 caracteres">
+                <label for="password2">Repita a senha:</label>
+                <input type="text" name="password2" id="password2">
+                <button type="submit">Enviar</button>
+            </form>
+        </section>
         
     </main>
     <script src="assets/js/main.js"></script>
