@@ -10,15 +10,17 @@ class ControleRemoto {
     // metodo de instancia
     diminuirVolume(){
         this.volume -= 2;
-    }}
-
-    // metodo estatico
-    trocaPilha () {
-
     }
+
+    // metodo estático
+    static trocaPilha(){
+        console.log('ok! vou trocar.');
+    }
+}
     const controle1 = new ControleRemoto('LG')
 
-    controle1.aumentarVolume()
-    controle1.aumentarVolume()
-    controle1.aumentarVolume()
+    controle1.aumentarVolume();
+    controle1.aumentarVolume();
+    controle1.aumentarVolume();
+    ControleRemoto.trocaPilha();
     console.log(controle1)
