@@ -58,4 +58,10 @@ form button {
 form button:hover {
   background: var(--primary-color-darker);
 }
+ul{
+  margin: 20px 30px;
+}
 
+input::placeholder{
+  font-size: 16px;
+}
