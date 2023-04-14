@@ -1,5 +1,4 @@
 
-alert('AHH')
 class ValidaFormulario{
   constructor () {
     this.formulario = document.querySelector('.formulario')
@@ -13,7 +12,21 @@ class ValidaFormulario{
   }
   handleSubmit(e){
     e.preventDefault();
-    console.log('ahh')
+    const camposValidos = this.camposSaoValidos()
+  }
+
+  camposSaoValidos(){
+    let valid = true;
+
+    for(let campo of this.formulario.querySelectorAll('.validar')){
+        if(!campo.value){
+            this.criaErro();
+        }
+    }
+  }
+
+  criaErro(){
+    
   }
 }
 
