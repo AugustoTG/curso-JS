@@ -8,30 +8,35 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-    <main>
-        <section class="container">
-            <h1>Formulário de cadastro</h1>
-            <ul>
-                <li>Nenhum campo pode estar Vazio</li>
-            </ul>
-            <form action="/" method="post" class="formulario">
-                <label for="name">Name</label>
-                <input type="text" name="name" id="name" class="validar">
-                <label for="sobrenome">Sobrenome</label>
-                <input type="text" name="sobrenome" id="sobrenome" class="validar">
-                <label for="cpf">CPF</label>
-                <input type="text" name="cpf" id="cpf" placeholder="000.000.000-00" class="validar">
-                <label for="username">Usuário</label>
-                <input placeholder="Usuário só poderá conter letras e/ou números e ter entre 6 e 12 caracteres" type="text" name="usarname" id="username" class="validar">
-                <label for="password">Senha</label>
-                <input type="password" name="password" id="password" placeholder="Senha precisa ter entre 6 e 12 caracteres" class="validar">
-                <label for="password2">Repita a senha</label>
-                <input type="password" name="password2" id="password2" class="validar">
-                <button type="submit">Enviar</button>
-            </form>
-        </section>
-        
-    </main>
-    <script src="assets/js/main.js"></script>
-</body>
+
+    <section class="container">
+      <h1>Formulário de cadastro</h1>
+      <ul>
+        <li>Nenhum campo pode estar vazio</li>
+        <li>Usuário só poderá conter letras e/ou números</li>
+        <li>Usuário deverá ter entre 3 e 12 caracteres</li>
+        <li>Senha precisa ter entre 6 e 12 caracteres</li>
+      </ul>
+      
+      <form action="/" method="POST" class='formulario'>
+        <label>Nome</label>
+        <input type="text" class="nome validar">
+        <label>Sobrenome</label>
+        <input type="text" class="sobrenome validar">
+        <label>CPF</label>
+        <input type="text" class="cpf validar">
+        <label>Usuário</label>
+        <input type="text" class="usuario validar">
+        <label>Senha</label>
+        <input type="password" class="senha validar">
+        <label>Repetir Senha</label>
+        <input type="password" class="repetir-senha validar">
+        <button type="submit">Enviar</button>
+      </form>
+    </section>
+  
+    <script src="./assets/js/validaCPF.js"></script>
+    <script src="./assets/js/main.js"></script>
+  </body>
+  
 </html>
