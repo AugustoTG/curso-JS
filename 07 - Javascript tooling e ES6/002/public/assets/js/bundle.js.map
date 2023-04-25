@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"AACAA,MAAM,iBAADC,OADQ,YAEbC,QAAQC,IAAI","sources":["webpack://002/./src/index.js"],"sourcesContent":["const nome = \"augusto\";\r\nalert(`olá mundo by: ${nome}`)\r\nconsole.log('ei')"],"names":["alert","concat","console","log"],"sourceRoot":""}
