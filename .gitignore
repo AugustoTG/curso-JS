@@ -1,0 +1,676 @@
+
+07 - Javascript tooling e ES6/001/node_modules/.bin/babel
+07 - Javascript tooling e ES6/001/node_modules/.bin/babel-external-helpers
+07 - Javascript tooling e ES6/001/node_modules/.bin/babel-external-helpers.cmd
+07 - Javascript tooling e ES6/001/node_modules/.bin/babel-external-helpers.ps1
+07 - Javascript tooling e ES6/001/node_modules/.bin/babel.cmd
+*.js
+*.map
+07 - Javascript tooling e ES6/001/node_modules/@babel/generator/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/generator/package.json
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-annotate-as-pure/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-builder-binary-assignment-operator-visitor/README.md
+07 - Javascript tooling e ES6/001/node_modules/.bin/babel.ps1
+07 - Javascript tooling e ES6/001/node_modules/.bin/browserslist
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-string-parser/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-string-parser/package.json
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-validator-identifier/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-validator-identifier/package.json
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-split-export-declaration/package.json
+*.md
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-proposal-export-namespace-from/package.json
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-proposal-json-strings/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-proposal-json-strings/package.json
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-proposal-logical-assignment-operators/LICENSE
+*.json
+node_modules/@babel/helper-create-regexp-features-plugin/LICENSE
+node_modules/@babel/helper-member-expression-to-functions/LICENSE
+node_modules/@babel/helper-module-imports/LICENSE
+node_modules/@babel/helper-module-transforms/LICENSE
+node_modules/@babel/helper-plugin-utils/LICENSE
+node_modules/@babel/helper-remap-async-to-generator/LICENSE
+node_modules/@babel/helper-replace-supers/LICENSE
+node_modules/@babel/helper-simple-access/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-exponentiation-operator/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/.bin/browserslist.cmd
+07 - Javascript tooling e ES6/001/node_modules/.bin/browserslist.ps1
+07 - Javascript tooling e ES6/001/node_modules/.bin/jsesc
+07 - Javascript tooling e ES6/001/node_modules/.bin/jsesc.cmd
+07 - Javascript tooling e ES6/001/node_modules/.bin/jsesc.ps1
+07 - Javascript tooling e ES6/001/node_modules/.bin/json5
+07 - Javascript tooling e ES6/001/node_modules/.bin/json5.cmd
+07 - Javascript tooling e ES6/001/node_modules/.bin/json5.ps1
+07 - Javascript tooling e ES6/001/node_modules/.bin/parser
+07 - Javascript tooling e ES6/001/node_modules/.bin/parser.cmd
+07 - Javascript tooling e ES6/001/node_modules/.bin/parser.ps1
+07 - Javascript tooling e ES6/001/node_modules/.bin/regjsparser
+07 - Javascript tooling e ES6/001/node_modules/.bin/regjsparser.cmd
+07 - Javascript tooling e ES6/001/node_modules/.bin/regjsparser.ps1
+07 - Javascript tooling e ES6/001/node_modules/.bin/resolve
+07 - Javascript tooling e ES6/001/node_modules/.bin/resolve.cmd
+07 - Javascript tooling e ES6/001/node_modules/.bin/resolve.ps1
+07 - Javascript tooling e ES6/001/node_modules/.bin/semver
+07 - Javascript tooling e ES6/001/node_modules/.bin/semver.cmd
+07 - Javascript tooling e ES6/001/node_modules/.bin/semver.ps1
+07 - Javascript tooling e ES6/001/node_modules/.bin/update-browserslist-db
+07 - Javascript tooling e ES6/001/node_modules/.bin/update-browserslist-db.cmd
+07 - Javascript tooling e ES6/001/node_modules/.bin/update-browserslist-db.ps1
+07 - Javascript tooling e ES6/001/node_modules/@ampproject/remapping/dist/remapping.mjs
+07 - Javascript tooling e ES6/001/node_modules/@ampproject/remapping/dist/types/build-source-map-tree.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@ampproject/remapping/dist/types/remapping.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@ampproject/remapping/dist/types/source-map-tree.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@ampproject/remapping/dist/types/source-map.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@ampproject/remapping/dist/types/types.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@ampproject/remapping/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/cli/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/code-frame/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-explode-assignable-expression/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-function-name/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-hoist-variables/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-member-expression-to-functions/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-module-imports/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-module-transforms/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-optimise-call-expression/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-plugin-utils/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-replace-supers/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-remap-async-to-generator/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-skip-transparent-expression-wrappers/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-simple-access/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-environment-visitor/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-define-polyfill-provider/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-define-polyfill-provider/esm/index.browser.mjs
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-create-class-features-plugin/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/core/src/config/resolve-targets.ts
+07 - Javascript tooling e ES6/001/node_modules/@babel/core/src/transform-file-browser.ts
+07 - Javascript tooling e ES6/001/node_modules/@babel/core/src/transform-file.ts
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-builder-binary-assignment-operator-visitor/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-compilation-targets/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-create-regexp-features-plugin/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-define-polyfill-provider/esm/index.node.mjs
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-wrap-function/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helpers/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/highlight/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/parser/index.cjs
+07 - Javascript tooling e ES6/001/node_modules/@babel/parser/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/parser/typings/babel-parser.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-proposal-class-properties/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-proposal-class-static-block/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-proposal-export-namespace-from/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-proposal-object-rest-spread/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-proposal-optional-chaining/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-proposal-private-methods/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-proposal-unicode-property-regex/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-proposal-private-property-in-object/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-proposal-optional-catch-binding/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-proposal-numeric-separator/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-proposal-dynamic-import/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-proposal-async-generator-functions/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-validator-option/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/helper-split-export-declaration/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-modules-umd/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-new-target/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-unicode-escapes/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/preset-env/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-template-literals/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-sticky-regex/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-parameters/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-modules-commonjs/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-member-expression-literals/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-literals/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-duplicate-keys/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-for-of/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-function-name/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-modules-amd/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-modules-systemjs/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-named-capturing-groups-regex/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-object-super/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-property-literals/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-regenerator/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-reserved-words/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-shorthand-properties/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-spread/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-typeof-symbol/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-unicode-regex/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/trace-mapping/dist/types/by-source.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/trace-mapping/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/ansi-styles/license
+07 - Javascript tooling e ES6/001/node_modules/@nicolo-ribaudo/chokidar-2/build-chokidar.sh
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/trace-mapping/node_modules/@jridgewell/sourcemap-codec/src/sourcemap-codec.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/trace-mapping/node_modules/@jridgewell/sourcemap-codec/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/trace-mapping/node_modules/@jridgewell/sourcemap-codec/dist/types/sourcemap-codec.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/trace-mapping/node_modules/@jridgewell/sourcemap-codec/dist/sourcemap-codec.mjs
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/trace-mapping/dist/types/types.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/trace-mapping/dist/types/trace-mapping.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/trace-mapping/dist/types/strip-filename.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/trace-mapping/dist/types/sourcemap-segment.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/trace-mapping/dist/types/sort.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/trace-mapping/dist/types/resolve.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/trace-mapping/dist/types/binary-search.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/trace-mapping/dist/types/any-map.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/trace-mapping/dist/trace-mapping.mjs
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/sourcemap-codec/dist/types/sourcemap-codec.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/sourcemap-codec/dist/sourcemap-codec.mjs
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/set-array/src/set-array.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/set-array/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/set-array/dist/types/set-array.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/set-array/dist/set-array.mjs
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/sourcemap-codec/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/core-js-compat/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/concat-map/README.markdown
+07 - Javascript tooling e ES6/001/node_modules/concat-map/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/concat-map/.travis.yml
+07 - Javascript tooling e ES6/001/node_modules/commander/typings/index.d.ts
+07 - Javascript tooling e ES6/001/node_modules/commander/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/color-name/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/color-name/.npmignore
+07 - Javascript tooling e ES6/001/node_modules/color-convert/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/chokidar/types/index.d.ts
+07 - Javascript tooling e ES6/001/node_modules/chokidar/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/chalk/types/index.d.ts
+07 - Javascript tooling e ES6/001/node_modules/chalk/license
+07 - Javascript tooling e ES6/001/node_modules/chalk/index.js.flow
+07 - Javascript tooling e ES6/001/node_modules/caniuse-lite/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/browserslist/index.d.ts
+07 - Javascript tooling e ES6/001/node_modules/browserslist/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/browserslist/error.d.ts
+07 - Javascript tooling e ES6/001/node_modules/braces/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/binary-extensions/license
+07 - Javascript tooling e ES6/001/node_modules/binary-extensions/index.d.ts
+07 - Javascript tooling e ES6/001/node_modules/brace-expansion/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/regenerate-unicode-properties/LICENSE-MIT.txt
+07 - Javascript tooling e ES6/001/node_modules/readdirp/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/pify/license
+07 - Javascript tooling e ES6/001/node_modules/picomatch/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/picocolors/picocolors.d.ts
+07 - Javascript tooling e ES6/001/node_modules/path-parse/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/once/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/make-dir/node_modules/.bin/semver.cmd
+07 - Javascript tooling e ES6/001/node_modules/make-dir/node_modules/.bin/semver
+07 - Javascript tooling e ES6/001/node_modules/make-dir/node_modules/.bin/semver.ps1
+07 - Javascript tooling e ES6/001/node_modules/make-dir/node_modules/semver/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/minimatch/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/node-releases/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/normalize-path/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/supports-color/license
+07 - Javascript tooling e ES6/001/node_modules/to-fast-properties/license
+07 - Javascript tooling e ES6/001/node_modules/unicode-canonical-property-names-ecmascript/LICENSE-MIT.txt
+07 - Javascript tooling e ES6/001/node_modules/update-browserslist-db/index.d.ts
+07 - Javascript tooling e ES6/001/node_modules/unicode-property-aliases-ecmascript/LICENSE-MIT.txt
+07 - Javascript tooling e ES6/001/node_modules/unicode-match-property-value-ecmascript/LICENSE-MIT.txt
+07 - Javascript tooling e ES6/001/node_modules/unicode-match-property-ecmascript/LICENSE-MIT.txt
+07 - Javascript tooling e ES6/001/node_modules/to-regex-range/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/supports-preserve-symlinks-flag/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/supports-preserve-symlinks-flag/.nycrc
+07 - Javascript tooling e ES6/001/node_modules/supports-preserve-symlinks-flag/.github/FUNDING.yml
+07 - Javascript tooling e ES6/001/node_modules/supports-preserve-symlinks-flag/.eslintrc
+07 - Javascript tooling e ES6/001/node_modules/slash/license
+07 - Javascript tooling e ES6/001/node_modules/semver/range.bnf
+07 - Javascript tooling e ES6/001/node_modules/semver/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/resolve/test/resolver/symlinked/_/symlink_target/.gitkeep
+07 - Javascript tooling e ES6/001/node_modules/resolve/test/resolver/mug.coffee
+07 - Javascript tooling e ES6/001/node_modules/resolve/test/resolver/cup.coffee
+07 - Javascript tooling e ES6/001/node_modules/resolve/readme.markdown
+07 - Javascript tooling e ES6/001/node_modules/resolve/bin/resolve
+07 - Javascript tooling e ES6/001/node_modules/resolve/.editorconfig
+07 - Javascript tooling e ES6/001/node_modules/resolve/.eslintrc
+07 - Javascript tooling e ES6/001/node_modules/resolve/.github/FUNDING.yml
+07 - Javascript tooling e ES6/001/node_modules/resolve/LICENSE
+node_modules/@babel/plugin-transform-modules-umd/LICENSE
+node_modules/@babel/plugin-transform-modules-systemjs/LICENSE
+node_modules/@babel/plugin-transform-modules-commonjs/LICENSE
+node_modules/@babel/plugin-transform-member-expression-literals/LICENSE
+node_modules/@babel/plugin-transform-literals/LICENSE
+node_modules/@babel/plugin-transform-function-name/LICENSE
+node_modules/@babel/plugin-transform-for-of/LICENSE
+node_modules/@babel/plugin-transform-exponentiation-operator/LICENSE
+node_modules/@babel/plugin-transform-duplicate-keys/LICENSE
+node_modules/@babel/plugin-transform-dotall-regex/LICENSE
+node_modules/@babel/plugin-transform-destructuring/LICENSE
+node_modules/@babel/plugin-transform-computed-properties/LICENSE
+node_modules/@babel/plugin-transform-classes/LICENSE
+node_modules/@babel/plugin-transform-block-scoping/LICENSE
+node_modules/@babel/plugin-transform-block-scoped-functions/LICENSE
+node_modules/@babel/plugin-transform-async-to-generator/LICENSE
+node_modules/@babel/plugin-transform-arrow-functions/LICENSE
+node_modules/@babel/plugin-transform-regenerator/LICENSE
+node_modules/@babel/plugin-transform-parameters/LICENSE
+node_modules/@babel/plugin-transform-object-super/LICENSE
+node_modules/@babel/plugin-transform-new-target/LICENSE
+node_modules/@babel/plugin-transform-named-capturing-groups-regex/LICENSE
+node_modules/@jridgewell/trace-mapping/dist/types/types.d.ts
+node_modules/@jridgewell/trace-mapping/dist/types/trace-mapping.d.ts
+node_modules/@jridgewell/trace-mapping/dist/types/sourcemap-segment.d.ts
+node_modules/@jridgewell/trace-mapping/dist/types/resolve.d.ts
+node_modules/@jridgewell/trace-mapping/dist/types/binary-search.d.ts
+node_modules/@jridgewell/trace-mapping/dist/types/any-map.d.ts
+node_modules/@jridgewell/sourcemap-codec/LICENSE
+node_modules/@jridgewell/sourcemap-codec/dist/types/sourcemap-codec.d.ts
+node_modules/@jridgewell/sourcemap-codec/dist/sourcemap-codec.mjs
+node_modules/@jridgewell/set-array/LICENSE
+node_modules/@jridgewell/set-array/dist/types/set-array.d.ts
+node_modules/@jridgewell/set-array/dist/set-array.mjs
+node_modules/@jridgewell/resolve-uri/LICENSE
+node_modules/@jridgewell/resolve-uri/dist/types/resolve-uri.d.ts
+node_modules/@jridgewell/resolve-uri/dist/resolve-uri.mjs
+node_modules/@jridgewell/gen-mapping/LICENSE
+node_modules/@jridgewell/gen-mapping/dist/types/types.d.ts
+node_modules/concat-map/LICENSE
+node_modules/concat-map/.travis.yml
+node_modules/commander/typings/index.d.ts
+node_modules/commander/LICENSE
+node_modules/color-name/LICENSE
+node_modules/color-convert/LICENSE
+node_modules/chokidar/types/index.d.ts
+node_modules/chokidar/LICENSE
+node_modules/chalk/types/index.d.ts
+node_modules/chalk/license
+node_modules/chalk/index.js.flow
+node_modules/browserslist/LICENSE
+node_modules/caniuse-lite/LICENSE
+node_modules/browserslist/index.d.ts
+node_modules/browserslist/error.d.ts
+node_modules/braces/LICENSE
+node_modules/brace-expansion/LICENSE
+node_modules/color-name/.npmignore
+node_modules/concat-map/README.markdown
+node_modules/convert-source-map/LICENSE
+node_modules/core-js-compat/LICENSE
+node_modules/debug/LICENSE
+node_modules/electron-to-chromium/LICENSE
+node_modules/escalade/dist/index.mjs
+node_modules/regjsparser/node_modules/jsesc/LICENSE-MIT.txt
+node_modules/regjsparser/node_modules/jsesc/bin/jsesc
+node_modules/regjsparser/node_modules/.bin/jsesc.ps1
+node_modules/regjsparser/node_modules/.bin/jsesc.cmd
+node_modules/regjsparser/node_modules/.bin/jsesc
+node_modules/regjsparser/LICENSE.BSD
+node_modules/regjsparser/bin/parser
+node_modules/regexpu-core/LICENSE-MIT.txt
+node_modules/regenerator-transform/LICENSE
+node_modules/regenerator-runtime/LICENSE
+node_modules/regenerate/LICENSE-MIT.txt
+node_modules/regenerate-unicode-properties/LICENSE-MIT.txt
+node_modules/readdirp/LICENSE
+node_modules/readdirp/index.d.ts
+node_modules/pify/license
+node_modules/picomatch/LICENSE
+node_modules/picocolors/types.ts
+node_modules/picocolors/picocolors.d.ts
+node_modules/picocolors/LICENSE
+node_modules/path-parse/LICENSE
+node_modules/path-is-absolute/license
+node_modules/once/LICENSE
+node_modules/normalize-path/LICENSE
+node_modules/node-releases/LICENSE
+node_modules/minimatch/LICENSE
+node_modules/make-dir/node_modules/semver/range.bnf
+node_modules/make-dir/node_modules/semver/LICENSE
+node_modules/make-dir/node_modules/semver/bin/semver
+node_modules/make-dir/node_modules/.bin/semver.ps1
+node_modules/make-dir/node_modules/.bin/semver.cmd
+node_modules/make-dir/node_modules/.bin/semver
+node_modules/make-dir/license
+node_modules/make-dir/index.d.ts
+node_modules/lru-cache/LICENSE
+node_modules/lodash.debounce/LICENSE
+node_modules/json5/lib/util.d.ts
+node_modules/json5/lib/unicode.d.ts
+node_modules/json5/lib/stringify.d.ts
+node_modules/json5/lib/parse.d.ts
+node_modules/json5/lib/index.d.ts
+node_modules/json5/dist/index.mjs
+node_modules/jsesc/man/jsesc.1
+node_modules/json5/dist/index.min.mjs
+node_modules/jsesc/LICENSE-MIT.txt
+node_modules/jsesc/bin/jsesc
+node_modules/js-tokens/LICENSE
+node_modules/is-number/LICENSE
+node_modules/is-glob/LICENSE
+node_modules/is-extglob/LICENSE
+node_modules/is-core-module/.nycrc
+node_modules/is-core-module/LICENSE
+node_modules/is-core-module/.eslintrc
+node_modules/is-binary-path/license
+node_modules/is-binary-path/index.d.ts
+node_modules/inherits/LICENSE
+node_modules/inflight/LICENSE
+node_modules/has/LICENSE-MIT
+node_modules/has-flag/license
+node_modules/globals/license
+node_modules/glob-parent/LICENSE
+node_modules/glob/LICENSE
+node_modules/gensync/test/.babelrc
+node_modules/gensync/LICENSE
+node_modules/gensync/index.js.flow
+node_modules/function-bind/test/.eslintrc
+node_modules/function-bind/LICENSE
+node_modules/function-bind/.travis.yml
+node_modules/function-bind/.npmignore
+node_modules/function-bind/.editorconfig
+node_modules/function-bind/.eslintrc
+node_modules/fs.realpath/LICENSE
+node_modules/fs-readdir-recursive/LICENSE
+node_modules/fill-range/LICENSE
+node_modules/esutils/LICENSE.BSD
+node_modules/escape-string-regexp/license
+node_modules/escalade/sync/index.mjs
+node_modules/escalade/sync/index.d.ts
+node_modules/escalade/license
+node_modules/escalade/index.d.ts
+node_modules/binary-extensions/license
+node_modules/binary-extensions/index.d.ts
+node_modules/binary-extensions/binary-extensions.json.d.ts
+node_modules/balanced-match/.github/FUNDING.yml
+node_modules/babel-plugin-polyfill-regenerator/LICENSE
+node_modules/babel-plugin-polyfill-regenerator/esm/index.mjs
+node_modules/babel-plugin-polyfill-corejs3/LICENSE
+node_modules/babel-plugin-polyfill-corejs3/esm/index.mjs
+node_modules/babel-plugin-polyfill-corejs2/LICENSE
+node_modules/anymatch/LICENSE
+node_modules/babel-plugin-polyfill-corejs2/esm/index.mjs
+node_modules/anymatch/index.d.ts
+node_modules/ansi-styles/license
+node_modules/@nicolo-ribaudo/chokidar-2/types.d.ts
+node_modules/@nicolo-ribaudo/chokidar-2/build-chokidar.sh
+node_modules/@jridgewell/trace-mapping/node_modules/@jridgewell/sourcemap-codec/src/sourcemap-codec.ts
+node_modules/@jridgewell/trace-mapping/node_modules/@jridgewell/sourcemap-codec/LICENSE
+node_modules/@jridgewell/trace-mapping/node_modules/@jridgewell/sourcemap-codec/dist/sourcemap-codec.mjs
+node_modules/@jridgewell/trace-mapping/node_modules/@jridgewell/sourcemap-codec/dist/types/sourcemap-codec.d.ts
+node_modules/@jridgewell/trace-mapping/LICENSE
+node_modules/@jridgewell/trace-mapping/dist/types/strip-filename.d.ts
+node_modules/@jridgewell/trace-mapping/dist/types/sort.d.ts
+node_modules/@jridgewell/trace-mapping/dist/types/by-source.d.ts
+node_modules/@jridgewell/trace-mapping/dist/trace-mapping.mjs
+node_modules/@jridgewell/set-array/src/set-array.ts
+node_modules/@jridgewell/gen-mapping/dist/types/sourcemap-segment.d.ts
+node_modules/@jridgewell/gen-mapping/dist/types/gen-mapping.d.ts
+node_modules/@jridgewell/gen-mapping/dist/gen-mapping.mjs
+node_modules/@babel/types/LICENSE
+node_modules/@babel/types/lib/index.js.flow
+node_modules/@babel/types/lib/index.d.ts
+node_modules/@babel/types/lib/index-legacy.d.ts
+node_modules/@babel/traverse/LICENSE
+node_modules/@babel/template/LICENSE
+node_modules/@babel/runtime/LICENSE
+node_modules/@babel/regjsgen/LICENSE-MIT.txt
+node_modules/@babel/preset-modules/LICENSE
+node_modules/@babel/preset-env/LICENSE
+node_modules/@babel/plugin-transform-unicode-regex/LICENSE
+node_modules/@babel/plugin-transform-unicode-escapes/LICENSE
+node_modules/@babel/plugin-transform-typeof-symbol/LICENSE
+node_modules/@babel/plugin-transform-template-literals/LICENSE
+node_modules/@babel/plugin-transform-sticky-regex/LICENSE
+node_modules/@babel/plugin-transform-reserved-words/LICENSE
+node_modules/@babel/plugin-transform-property-literals/LICENSE
+node_modules/@babel/plugin-transform-modules-amd/LICENSE
+node_modules/@babel/plugin-syntax-optional-catch-binding/LICENSE
+node_modules/@babel/plugin-syntax-optional-chaining/LICENSE
+node_modules/@babel/plugin-syntax-private-property-in-object/LICENSE
+node_modules/@babel/plugin-syntax-top-level-await/LICENSE
+node_modules/@babel/plugin-transform-shorthand-properties/LICENSE
+node_modules/@babel/plugin-transform-spread/LICENSE
+node_modules/unicode-match-property-value-ecmascript/LICENSE-MIT.txt
+node_modules/unicode-match-property-ecmascript/LICENSE-MIT.txt
+node_modules/unicode-canonical-property-names-ecmascript/LICENSE-MIT.txt
+node_modules/to-regex-range/LICENSE
+node_modules/to-fast-properties/license
+node_modules/supports-preserve-symlinks-flag/LICENSE
+node_modules/supports-preserve-symlinks-flag/.nycrc
+node_modules/supports-preserve-symlinks-flag/.github/FUNDING.yml
+node_modules/supports-preserve-symlinks-flag/.eslintrc
+node_modules/supports-color/license
+node_modules/slash/license
+node_modules/semver/LICENSE
+node_modules/semver/range.bnf
+node_modules/resolve/test/resolver/symlinked/_/symlink_target/.gitkeep
+node_modules/resolve/test/resolver/cup.coffee
+node_modules/resolve/test/resolver/mug.coffee
+node_modules/resolve/readme.markdown
+node_modules/resolve/LICENSE
+node_modules/resolve/bin/resolve
+node_modules/resolve/.github/FUNDING.yml
+node_modules/resolve/.eslintrc
+node_modules/resolve/.editorconfig
+node_modules/regjsparser/parser.d.ts
+node_modules/regjsparser/node_modules/jsesc/man/jsesc.1
+node_modules/@babel/plugin-syntax-object-rest-spread/LICENSE
+node_modules/@babel/plugin-syntax-numeric-separator/LICENSE
+node_modules/@babel/plugin-syntax-nullish-coalescing-operator/LICENSE
+node_modules/@babel/plugin-syntax-logical-assignment-operators/LICENSE
+node_modules/@babel/plugin-syntax-json-strings/LICENSE
+node_modules/@babel/plugin-syntax-import-assertions/LICENSE
+node_modules/@babel/plugin-syntax-export-namespace-from/LICENSE
+node_modules/@babel/plugin-syntax-dynamic-import/LICENSE
+node_modules/@babel/plugin-syntax-class-static-block/LICENSE
+node_modules/@babel/plugin-syntax-class-properties/LICENSE
+node_modules/@babel/plugin-syntax-async-generators/LICENSE
+node_modules/@babel/plugin-proposal-unicode-property-regex/LICENSE
+node_modules/@babel/plugin-proposal-private-property-in-object/LICENSE
+node_modules/@babel/plugin-proposal-private-methods/LICENSE
+node_modules/@babel/plugin-proposal-optional-chaining/LICENSE
+node_modules/@babel/plugin-proposal-optional-catch-binding/LICENSE
+node_modules/@babel/plugin-proposal-object-rest-spread/LICENSE
+node_modules/@babel/plugin-proposal-nullish-coalescing-operator/LICENSE
+node_modules/@babel/plugin-proposal-numeric-separator/LICENSE
+node_modules/@babel/plugin-proposal-logical-assignment-operators/LICENSE
+node_modules/@babel/plugin-proposal-json-strings/LICENSE
+node_modules/@babel/plugin-proposal-export-namespace-from/LICENSE
+node_modules/@babel/plugin-proposal-dynamic-import/LICENSE
+node_modules/@babel/plugin-proposal-class-static-block/LICENSE
+node_modules/@babel/plugin-proposal-class-properties/LICENSE
+node_modules/@babel/plugin-proposal-async-generator-functions/LICENSE
+node_modules/@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining/LICENSE
+node_modules/@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression/LICENSE
+node_modules/@babel/parser/typings/babel-parser.d.ts
+node_modules/@babel/parser/LICENSE
+node_modules/@babel/parser/index.cjs
+node_modules/@babel/highlight/LICENSE
+node_modules/@babel/helpers/LICENSE
+node_modules/@babel/helper-wrap-function/LICENSE
+node_modules/@babel/helper-validator-option/LICENSE
+node_modules/@babel/helper-string-parser/LICENSE
+node_modules/@babel/helper-validator-identifier/LICENSE
+node_modules/@babel/helper-skip-transparent-expression-wrappers/LICENSE
+node_modules/@babel/helper-split-export-declaration/LICENSE
+node_modules/@babel/helper-optimise-call-expression/LICENSE
+node_modules/@babel/helper-hoist-variables/LICENSE
+node_modules/@babel/helper-function-name/LICENSE
+node_modules/@babel/helper-explode-assignable-expression/LICENSE
+node_modules/@babel/helper-environment-visitor/LICENSE
+node_modules/@babel/helper-define-polyfill-provider/LICENSE
+node_modules/@babel/helper-define-polyfill-provider/esm/index.node.mjs
+node_modules/@babel/helper-define-polyfill-provider/esm/index.browser.mjs
+node_modules/@babel/helper-create-class-features-plugin/LICENSE
+node_modules/@babel/helper-compilation-targets/LICENSE
+node_modules/@babel/helper-builder-binary-assignment-operator-visitor/LICENSE
+node_modules/@babel/helper-annotate-as-pure/LICENSE
+node_modules/@babel/generator/LICENSE
+node_modules/@babel/core/src/transform-file.ts
+node_modules/@babel/core/src/transform-file-browser.ts
+node_modules/@babel/core/src/config/resolve-targets.ts
+node_modules/@babel/core/src/config/resolve-targets-browser.ts
+node_modules/@babel/core/src/config/files/index.ts
+node_modules/@babel/core/src/config/files/index-browser.ts
+node_modules/@babel/core/LICENSE
+node_modules/@babel/core/lib/config/files/import.cjs
+node_modules/@babel/compat-data/LICENSE
+node_modules/@babel/core/cjs-proxy.cjs
+node_modules/@babel/code-frame/LICENSE
+node_modules/@ampproject/remapping/LICENSE
+node_modules/@babel/cli/LICENSE
+node_modules/@ampproject/remapping/dist/types/types.d.ts
+node_modules/@ampproject/remapping/dist/types/source-map.d.ts
+node_modules/@ampproject/remapping/dist/types/source-map-tree.d.ts
+node_modules/@ampproject/remapping/dist/types/remapping.d.ts
+node_modules/@ampproject/remapping/dist/types/build-source-map-tree.d.ts
+node_modules/@ampproject/remapping/dist/remapping.mjs
+node_modules/.bin/update-browserslist-db.ps1
+node_modules/.bin/update-browserslist-db.cmd
+node_modules/.bin/update-browserslist-db
+node_modules/.bin/semver.ps1
+node_modules/.bin/semver.cmd
+node_modules/.bin/semver
+node_modules/.bin/resolve.ps1
+node_modules/.bin/resolve.cmd
+node_modules/.bin/resolve
+node_modules/.bin/regjsparser.ps1
+node_modules/.bin/regjsparser.cmd
+node_modules/.bin/regjsparser
+node_modules/.bin/parser.ps1
+node_modules/.bin/parser.cmd
+node_modules/.bin/parser
+node_modules/.bin/json5.ps1
+node_modules/.bin/json5.cmd
+node_modules/.bin/json5
+node_modules/.bin/jsesc.ps1
+node_modules/.bin/jsesc.cmd
+node_modules/.bin/jsesc
+node_modules/.bin/browserslist.ps1
+node_modules/.bin/browserslist.cmd
+node_modules/.bin/browserslist
+node_modules/.bin/babel.ps1
+node_modules/.bin/babel.cmd
+node_modules/.bin/babel-external-helpers.cmd
+node_modules/.bin/babel-external-helpers.ps1
+node_modules/.bin/babel-external-helpers
+node_modules/.bin/babel
+07 - Javascript tooling e ES6/001/node_modules/yallist/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/wrappy/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/update-browserslist-db/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/regjsparser/parser.d.ts
+07 - Javascript tooling e ES6/001/node_modules/regjsparser/node_modules/jsesc/man/jsesc.1
+07 - Javascript tooling e ES6/001/node_modules/regjsparser/node_modules/jsesc/LICENSE-MIT.txt
+07 - Javascript tooling e ES6/001/node_modules/regjsparser/node_modules/jsesc/bin/jsesc
+07 - Javascript tooling e ES6/001/node_modules/regjsparser/node_modules/.bin/jsesc.ps1
+07 - Javascript tooling e ES6/001/node_modules/regjsparser/node_modules/.bin/jsesc.cmd
+07 - Javascript tooling e ES6/001/node_modules/regjsparser/node_modules/.bin/jsesc
+07 - Javascript tooling e ES6/001/node_modules/regjsparser/LICENSE.BSD
+07 - Javascript tooling e ES6/001/node_modules/regjsparser/bin/parser
+07 - Javascript tooling e ES6/001/node_modules/regexpu-core/LICENSE-MIT.txt
+07 - Javascript tooling e ES6/001/node_modules/regenerator-transform/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/regenerator-runtime/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/regenerate/LICENSE-MIT.txt
+07 - Javascript tooling e ES6/001/node_modules/readdirp/index.d.ts
+07 - Javascript tooling e ES6/001/node_modules/picocolors/types.ts
+07 - Javascript tooling e ES6/001/node_modules/picocolors/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/path-is-absolute/license
+07 - Javascript tooling e ES6/001/node_modules/make-dir/node_modules/semver/range.bnf
+07 - Javascript tooling e ES6/001/node_modules/make-dir/license
+07 - Javascript tooling e ES6/001/node_modules/make-dir/node_modules/semver/bin/semver
+07 - Javascript tooling e ES6/001/node_modules/make-dir/index.d.ts
+07 - Javascript tooling e ES6/001/node_modules/lodash.debounce/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/lru-cache/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/json5/lib/util.d.ts
+07 - Javascript tooling e ES6/001/node_modules/json5/lib/unicode.d.ts
+07 - Javascript tooling e ES6/001/node_modules/json5/lib/stringify.d.ts
+07 - Javascript tooling e ES6/001/node_modules/json5/lib/parse.d.ts
+07 - Javascript tooling e ES6/001/node_modules/json5/dist/index.mjs
+07 - Javascript tooling e ES6/001/node_modules/json5/lib/index.d.ts
+07 - Javascript tooling e ES6/001/node_modules/json5/dist/index.min.mjs
+07 - Javascript tooling e ES6/001/node_modules/jsesc/man/jsesc.1
+07 - Javascript tooling e ES6/001/node_modules/jsesc/LICENSE-MIT.txt
+07 - Javascript tooling e ES6/001/node_modules/jsesc/bin/jsesc
+07 - Javascript tooling e ES6/001/node_modules/js-tokens/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/is-number/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/is-glob/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/is-extglob/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/is-core-module/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/is-core-module/.nycrc
+07 - Javascript tooling e ES6/001/node_modules/is-core-module/.eslintrc
+07 - Javascript tooling e ES6/001/node_modules/is-binary-path/license
+07 - Javascript tooling e ES6/001/node_modules/is-binary-path/index.d.ts
+07 - Javascript tooling e ES6/001/node_modules/inherits/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/inflight/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/has/LICENSE-MIT
+07 - Javascript tooling e ES6/001/node_modules/has-flag/license
+07 - Javascript tooling e ES6/001/node_modules/glob/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/globals/license
+07 - Javascript tooling e ES6/001/node_modules/glob-parent/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/gensync/test/.babelrc
+07 - Javascript tooling e ES6/001/node_modules/gensync/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/gensync/index.js.flow
+07 - Javascript tooling e ES6/001/node_modules/function-bind/test/.eslintrc
+07 - Javascript tooling e ES6/001/node_modules/function-bind/.travis.yml
+07 - Javascript tooling e ES6/001/node_modules/function-bind/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/function-bind/.npmignore
+07 - Javascript tooling e ES6/001/node_modules/function-bind/.eslintrc
+07 - Javascript tooling e ES6/001/node_modules/function-bind/.editorconfig
+07 - Javascript tooling e ES6/001/node_modules/fs.realpath/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/fs-readdir-recursive/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/fill-range/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/esutils/LICENSE.BSD
+07 - Javascript tooling e ES6/001/node_modules/escape-string-regexp/license
+07 - Javascript tooling e ES6/001/node_modules/escalade/sync/index.mjs
+07 - Javascript tooling e ES6/001/node_modules/escalade/sync/index.d.ts
+07 - Javascript tooling e ES6/001/node_modules/escalade/license
+07 - Javascript tooling e ES6/001/node_modules/escalade/dist/index.mjs
+07 - Javascript tooling e ES6/001/node_modules/escalade/index.d.ts
+07 - Javascript tooling e ES6/001/node_modules/electron-to-chromium/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/debug/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/binary-extensions/binary-extensions.json.d.ts
+07 - Javascript tooling e ES6/001/node_modules/convert-source-map/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/balanced-match/.github/FUNDING.yml
+07 - Javascript tooling e ES6/001/node_modules/babel-plugin-polyfill-regenerator/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/babel-plugin-polyfill-regenerator/esm/index.mjs
+07 - Javascript tooling e ES6/001/node_modules/babel-plugin-polyfill-corejs3/esm/index.mjs
+07 - Javascript tooling e ES6/001/node_modules/babel-plugin-polyfill-corejs3/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/babel-plugin-polyfill-corejs2/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/babel-plugin-polyfill-corejs2/esm/index.mjs
+07 - Javascript tooling e ES6/001/node_modules/anymatch/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/anymatch/index.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@nicolo-ribaudo/chokidar-2/types.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/resolve-uri/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/resolve-uri/dist/types/resolve-uri.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/resolve-uri/dist/resolve-uri.mjs
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/gen-mapping/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/gen-mapping/dist/types/types.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/gen-mapping/dist/types/sourcemap-segment.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/gen-mapping/dist/types/gen-mapping.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@jridgewell/gen-mapping/dist/gen-mapping.mjs
+07 - Javascript tooling e ES6/001/node_modules/@babel/types/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/types/lib/index.js.flow
+07 - Javascript tooling e ES6/001/node_modules/@babel/types/lib/index.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@babel/types/lib/index-legacy.d.ts
+07 - Javascript tooling e ES6/001/node_modules/@babel/traverse/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/template/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/runtime/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/regjsgen/LICENSE-MIT.txt
+07 - Javascript tooling e ES6/001/node_modules/@babel/preset-modules/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-dotall-regex/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-computed-properties/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-destructuring/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-classes/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-block-scoping/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-block-scoped-functions/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-arrow-functions/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-transform-async-to-generator/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-syntax-top-level-await/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-syntax-private-property-in-object/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-syntax-optional-chaining/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-syntax-optional-catch-binding/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-syntax-object-rest-spread/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-syntax-nullish-coalescing-operator/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-syntax-numeric-separator/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-syntax-logical-assignment-operators/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-syntax-import-assertions/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-syntax-json-strings/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-syntax-export-namespace-from/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-syntax-class-static-block/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-syntax-dynamic-import/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-syntax-class-properties/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/plugin-syntax-async-generators/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/core/src/config/resolve-targets-browser.ts
+07 - Javascript tooling e ES6/001/node_modules/@babel/core/src/config/files/index.ts
+07 - Javascript tooling e ES6/001/node_modules/@babel/core/src/config/files/index-browser.ts
+07 - Javascript tooling e ES6/001/node_modules/@babel/core/LICENSE
+07 - Javascript tooling e ES6/001/node_modules/@babel/core/lib/config/files/import.cjs
+07 - Javascript tooling e ES6/001/node_modules/@babel/core/cjs-proxy.cjs
+07 - Javascript tooling e ES6/001/node_modules/@babel/compat-data/LICENSE
+node_modules/yallist/LICENSE
+node_modules/wrappy/LICENSE
+node_modules/update-browserslist-db/LICENSE
+node_modules/unicode-property-aliases-ecmascript/LICENSE-MIT.txt
+node_modules/update-browserslist-db/index.d.ts
